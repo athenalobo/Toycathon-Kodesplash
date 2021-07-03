@@ -1,4 +1,7 @@
 # Toycathon-Kodesplash
+
+This project was built for Toycathon 2021 by a team of 5.
+
 **What is Kodesplash?**
 
 	Kodesplash is a collection of many games where Each Java concept is taught through a separate unique game inspired by Indian Culture and heritage
