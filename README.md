@@ -1,6 +1,6 @@
 # Toycathon-Kodesplash
 
-This project was built for Toycathon 2021 by a team of 5.
+This project was built for Toycathon 2021 and qualified for the Grand Finale. It was built by a team of 5.
 
 **What is Kodesplash?**
 
