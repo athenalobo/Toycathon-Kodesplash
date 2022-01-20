@@ -11,13 +11,13 @@ This project was built for Toycathon 2021 by a team of 5. It qualified for the G
 
 **The game:**
 
-	Pieces of incomplete code are given which the player will have to complete using the provided options
+	Pieces of incomplete code are given which the player will have to complete based on the specifications of the game environment 
 	If an incorrect option is chosen, a brief audio clip explanation plays
 	When the player clicks on the correct button, the game animation will take place.
 		
 **Representation of Indian Culture:**
 
-	10 unique games based on different States of India
+	10 unique mini-games with multiple levels based on different States of India 
 	Inspired by modern India- eg., Atal Tunnel, Himachal Pradesh;
 	Depicts Indian Culture- eg., Makar Sankranti, Gujarat;
 	Spreads awareness on national Missions- eg., Swachh Bharat Abhiyan, Madhya Pradesh;
@@ -61,7 +61,7 @@ Approximate **Time** required to learn a single concept and play a game: 10 minu
 
 **Scalability:**
 
-	Can be used by the hearing impaired(divyang) community alike due to visual instructions
+	Can be used by the hearing impaired (divyang) community alike due to visual instructions
 	Dominantly established in all middle, high schools and colleges
 	Education is well accepted world over
 	Gamified approach keeps the user interested 
